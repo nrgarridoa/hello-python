@@ -19,33 +19,33 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 ## Contenido
 El contenido esta organizado en pequeños fragmentos para facilitar tu aprendizaje.
 
-## Introducción a Python
+### Introducción a Python
 1. **¿Qué es Python?**
 2. **Instalación de Python**
 
-## Primeros Pasos
+### Primeros Pasos
 1. **Hola Mundo en Python**
 2. **Variables y Tipos de Datos**
 3. **Operadores Básicos**
 4. **Estructuras de Control**
 
-## Funciones y Módulos
+### Funciones y Módulos
 1. **Definición de Funciones**
 2. **Módulos y Bibliotecas**
 
-## Listas y Diccionarios
+### Listas y Diccionarios
 1. **Listas**
 2. **Diccionarios**
 
-## Manipulación de Archivos
+### Manipulación de Archivos
 1. **Lectura y Escritura de Archivos**
 
-## Proyecto Práctico: Calculadora Simple
+### Proyecto Práctico: Calculadora Simple
 1. **Diseño de la Calculadora**
 2. **Implementación en Python**
 
-## Recursos Adicionales
+### Recursos Adicionales
 1. **Enlaces Útiles**
 
-## Conclusiones
+### Conclusiones
 1. **Próximos Pasos**
