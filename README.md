@@ -17,12 +17,12 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 
 
 ## Contenido
-El contenido esta organizado en pequeños fragmentos para facilitar tu aprendizaje.
+*El contenido esta organizado en pequeños fragmentos para facilitar tu aprendizaje.*
 
 ### Introducción
-1. **Objetivos de la guía
-2. **¿Qué es programación?
-3. **Diagrama de flujo
+1. **Objetivos de la guía**
+2. **¿Qué es programación?**
+3. **Diagrama de flujo**
    
 ### Introducción a Python
 1. **¿Qué es Python?**
