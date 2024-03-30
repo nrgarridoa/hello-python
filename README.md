@@ -40,10 +40,8 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 1. [**Objetivos de la guía**](objetivos.md)
 2. [**¿Qué es programación?**](programacion.md)
 3. **Diagrama de flujo**
-   
-### Introducción a Python
-1. **¿Qué es Python?**
-2. **Instalación de Python**
+4. **¿Qué es Python?**
+5. **Instalación de Python**
 
 ### Programación estructura en Python
 
