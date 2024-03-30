@@ -67,5 +67,6 @@ GITHUB es una plataforma de almacenamiento de código creada en 2007. Podemos cr
 Valores separados por comas
 Datos especiales georreferenciados
 Imágenes satelitales, DEMs ![Imágenes Satelitales, DEMs](https://img.shields.io/badge/Imágenes%20Satelitales%2C%20DEMs-000000?style=for-the-badge&logo=satellite&logoColor=white)
-Bases de datos ![Bases de datos](https://img.shields.io/badge/Bases%20de%20datos-003B57?style=for-the-badge&logo=database&logoColor=white)
-Algoritmos y documentos de Python ![Algoritmos y documentos de Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Bases de datos ![Bases de datos](https://img.shields.io/badge/Bases%20de%20datos-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAJhJREFUWIXtltEOgjAQBB8YMbMOWAiqIGRVAIcSCBKjYLJg3f8JptGbpXr21oBXfuwT2F5FmjjcWvvL4AuPZSAJQXE0HabgFRoU0xppIeFb5zUxVUtNQ3GbPCLFro1l6AOGycihprgkOKoVH1s/FGdR2wtiuhOIvB8BYQsgx6GRLzHnwPIx/0pymaiVHJRKKizI4cPIcPjEs3wcbLkhkEioei4bkgFccxIe/Qb8zAGxK5NIPNzYAAAAAElFTkSuQmCC)
+- Algoritmos y documentos de Python ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAOJJREFUWIXtlDEOwzAQBXFdCEsBQtkLECKhEyBbUgLwKMygjsOBjhgXLuO3YlJh0XHfJzIDuR4ZCzIgUv7AnkEhHyUkW7SEaWpzJ3B0fW9lgGSVb1y3nJgV9LqtSAKcFcHd4EXRphUzOAF9F3LiqUezGAM87RZqPzuxSR5BILDDZUWz1gBTM/rqzN5GbX4iDMCUeS0bF8FVVNOrFaf7Q3nqjPd3Loj6lLY9rF2idrE2mOug5N1R1DTePZYimrP1LmqVbVw9sGfxNpLX6BC0Aj6UCnZkmeVUAAAAASUVORK5CYII=)
+
