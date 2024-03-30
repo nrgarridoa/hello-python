@@ -1,6 +1,6 @@
 # ¿Que es la programación?
 
-Si ya conoces los conceptos tratados en esta sección, siéntete libre de [omitirla](#Empezando).
+Si ya conoces los conceptos tratados en esta sección, siéntete libre de [omitirla](##Empezando).
 
 Como usuario de computadoras, sabes que estas no tienen sentimientos. No trabajan más rápido o más lento dependiendo de si estamos enojados o contentos. Las computadoras pueden realizar millones de cálculos por segundo, pero necesitan que les digamos exactamente qué hacer. Si hacen algo distinto a lo que queremos que hagan, el problema suele ser que no entienden nuestras instrucciones de la misma manera que las entendemos nosotros.
 
@@ -8,7 +8,7 @@ La única gran diferencia entre la programación y lo que ya conoces es que, en 
 
 A diferencia de lo que muchas personas piensan, la programación suele no ser complicada. Los programas grandes siempre están hechos de piezas pequeñas y simples, y esas piezas se escriben una a una. Los lenguajes de programación están diseñados para ser utilizados por humanos, así que si hay una manera fácil y una manera difícil de hacer algo, deberías usar la manera más fácil.
 
-# ¿Qué necesito saber?
+## ¿Qué necesito saber?
 
 En primer lugar, no necesitas ser bueno en matemáticas. Algunos programadores son buenos en matemáticas, otros no lo son. La programación y las matemáticas son dos cosas diferentes y ser bueno o malo en una no significa que automáticamente seas bueno o malo en la otra.
 
@@ -16,7 +16,7 @@ Tampoco necesitas una computadora potente. Podría hacer casi toda mi programaci
 
 La programación lleva tiempo, como todos los pasatiempos. Algunas personas aprenden rápido, y otras no. No espero que leas este tutorial en un par de horas y luego domines todo de lo que habla. Tómate tu tiempo con las cosas y recuerda que yo aprendí a programar lentamente.
 
-# Empezando
+## Empezando
 Este tutorial utiliza un lenguaje de programación llamado Python porque es fácil de aprender y podemos hacer muchas cosas diferentes con él. Por ejemplo, podemos crear nuestras propias aplicaciones que tengan botones que la gente pueda hacer clic en lugar de solo usar aplicaciones escritas por otros.
 
 Antes de comenzar con Python, necesitamos saber cómo escribir algunos de los caracteres especiales de Python con nuestros teclados. Desafortunadamente, no sé qué teclas necesitas presionar para producir estos caracteres porque tu teclado probablemente es diferente al mío. Pero el teclado puede indicarte qué necesitas presionar.
@@ -48,7 +48,7 @@ En este tutorial necesitamos saber cómo escribir estos caracteres. Aprenderemos
 
 Eso puede parecer muchos caracteres, pero probablemente ya conozcas muchos de ellos, así que no debería ser un problema.
 
-# ¿Cómo leer esta guía?
+## ¿Cómo leer esta guía?
 
 He puesto mi mejor esfuerzo para que esta guía sea lo más fácil de seguir posible. Otras personas también han comentado al respecto y me han ayudado a mejorarlo mucho. Pero, ¿qué debes hacer si encuentras un problema con la guía?
 
@@ -66,11 +66,11 @@ Si quieres saber qué hace alguna parte del código en esta guía, simplemente p
 
 Aunque un buen tutorial es una parte importante para aprender a programar, también necesitas aprender a crear tus propias cosas. Usa lo que has aprendido y crea algo con ello.
 
-# ¡Pero leer es aburrido!
+## ¡Pero leer es aburrido!
 
 Este capítulo probablemente sea el más aburrido de toda la guía. Los demás capítulos contienen mucho menos texto y mucho más código. Además, puedes avanzar bastante simplemente leyendo el código y luego revisando el texto solo si no entiendes el código.
 
-# Resumen
+## Resumen
 
 - Ahora deberías tener una idea de qué es la programación y qué son los lenguajes de programación.
 - No necesitas ser bueno en matemáticas ni tener una computadora nueva.
