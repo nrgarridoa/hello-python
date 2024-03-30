@@ -120,7 +120,7 @@ Soy Ingeniero de minas e Ingeniero de Datos especializado en programación, base
 
 Me dedico a crear contenido educativo sobre programación y tecnología en diversas plataformas de redes sociales. Mi objetivo es facilitar el acceso al conocimiento y ayudar a otros profesionales a mejorar sus habilidades en estos campos en constante evolución.
 
-## En mi perfil de GitHub tienes más información
+### En mi perfil de GitHub tienes más información
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nrgarridoa)[![NRGARRIDOA](https://img.shields.io/badge/NRGARRIDOA-blue?style=for-the-badge)](https://github.com/nrgarrido)
 
 
