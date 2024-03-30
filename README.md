@@ -42,24 +42,23 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 3. **Diagrama de flujo**
 4. **¿Qué es Python?**
 5. **Instalación de Python**
+6. [**Primeros Pasos**](primeros_pasos.md)
+7. [**Hola Mundo en Python**](https://drive.google.com/file/d/1zfZFBlomgxy9A3UmAWai60g0A10lYCeK/view?usp=drive_link)
+   - [Comentarios en líneas de código](https://drive.google.com/file/d/1rtzM2JgOZBxaFA03Ziv-hgDBIvA5WRic/view?usp=drive_link)
 
 ### Programación estructura en Python
 
-1. [**Primeros Pasos**](primeros_pasos.md)
-2. [**Hola Mundo en Python**](https://drive.google.com/file/d/1zfZFBlomgxy9A3UmAWai60g0A10lYCeK/view?usp=drive_link)
-   - [Comentarios en líneas de código](https://drive.google.com/file/d/1rtzM2JgOZBxaFA03Ziv-hgDBIvA5WRic/view?usp=drive_link)
-
-3. **Variables**
+1. **Variables**
    - Concepto de variables y su uso en Python.
    - Reglas de nombrado de variables en Python (identificadores válidos).
    - Tipos de datos que pueden almacenarse en variables (números, cadenas, booleanos, etc.).
    - Ejemplos de declaración y asignación de variables.
 
-3. **Tipos de datos**
+2. **Tipos de datos**
    - Descripción detallada de los tipos de datos básicos en Python: enteros, flotantes, cadenas, booleanos.
    - Ejemplos de cómo trabajar con cada tipo de dato (creación, operaciones, métodos).
 
-4. **Operadores**
+3. **Operadores**
    - **Operadores básicos**
      - Operadores aritméticos: suma, resta, multiplicación, división, módulo, exponente.
      - Operadores de comparación: igualdad, desigualdad, mayor que, menor que, mayor o igual que, menor o igual que.
@@ -69,7 +68,7 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
      - Operador de pertenencia: in.
      - Operador de identidad: is.
 
-5. **Estructuras de Control**
+4. **Estructuras de Control**
    - **Condicionales**
      - Uso de la estructura `if`, `elif` y `else` para ejecutar código de manera condicional.
      - Operadores de comparación y lógicos en las condiciones.
@@ -80,7 +79,7 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
      - Uso de los bucles para repetir acciones o iterar sobre secuencias.
      - Ejemplos de uso de bucles en diferentes situaciones.
 
-6. **Taller práctico**
+5. **Taller práctico**
    - Ejercicios prácticos para aplicar los conceptos aprendidos en los temas anteriores.
    - Problemas para resolver utilizando variables, operadores y estructuras de control.
    - Soluciones y explicaciones detalladas para cada ejercicio.
