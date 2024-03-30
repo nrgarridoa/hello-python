@@ -66,7 +66,7 @@ Mining Engineer & Data Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nrgarridoa/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nrgarridoa)
 
-Soy un ingeniero de minas e Ingeniero de Datos especializado en programación, bases de datos y reportabilidad para la industria minera. Mi experiencia en la gran minería me ha proporcionado un profundo conocimiento de las complejidades y desafíos de este sector. Además de mi labor profesional, tengo una pasión por compartir conocimientos y promover el desarrollo tecnológico en la industria.
+Soy Ingeniero de minas e Ingeniero de Datos especializado en programación, bases de datos y reportabilidad para la industria minera. Mi experiencia en la gran minería me ha proporcionado un profundo conocimiento de las complejidades y desafíos de este sector. Además de mi labor profesional, tengo una pasión por compartir conocimientos y promover el desarrollo tecnológico en la industria.
 
 Me dedico a crear contenido educativo sobre programación y tecnología en diversas plataformas de redes sociales. Mi objetivo es facilitar el acceso al conocimiento y ayudar a otros profesionales mineros a mejorar sus habilidades en estos campos en constante evolución.
 
