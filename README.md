@@ -5,7 +5,8 @@
 
 ![Python](https://img.shields.io/badge/Python-006ADF?style=for-the-badge&logo=python&logoColor=FED902)
 ![Python](https://img.shields.io/badge/Python-006ADF?style=for-the-badge&logo=python&logoColor=FED902&labelColor=006ADF)
-![Python](https://img.shields.io/badge/Python-FED902?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FED902?style=for-the-badge&logo=python&logoColor=white&labelColor=FED902)
+
 
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-white?style=for-the-badge&logo=jupyter&logoColor=gray&labelColor=orange)
