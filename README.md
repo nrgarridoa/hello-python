@@ -1,16 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-![Python](https://img.shields.io/badge/Python-006ADF?style=for-the-badge&logo=python&logoColor=FED902)
-![Python](https://img.shields.io/badge/Python-006ADF?style=for-the-badge&logo=python&logoColor=FED902&labelColor=006ADF)
-![Python](https://img.shields.io/badge/Python-FED902?style=for-the-badge&logo=python&logoColor=white&labelColor=FED902)
-
-
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-white?style=for-the-badge&logo=jupyter&logoColor=gray&labelColor=orange)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
 
 
