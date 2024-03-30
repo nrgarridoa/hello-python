@@ -2,8 +2,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-white?style=for-the-badge&logo=google-colab&logoColor=blue)](https://colab.research.google.com/)
 
 
 #### Si consideras útil la guía, apóyala haciendo [![Star](https://img.shields.io/github/stars/nrgarridoa/hello-python?style=social)](https://github.com/nrgarridoa/hello-python) en el repositorio. ¡Gracias! ####
