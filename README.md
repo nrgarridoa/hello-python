@@ -67,6 +67,10 @@ Mining Engineer & Data Engineer
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nrgarridoa)
 
 Soy ingeniero de minas y Data Engineer especializado en programación, bases de datos y reportabilidad para la industria minera, tengo experiencia en gran minería, comparto contenido formativo sobre programación y tecnología en diferentes redes sociales.
+Soy un ingeniero de minas y Data Engineer especializado en programación, bases de datos y reportabilidad para la industria minera. Mi experiencia en la gran minería me ha proporcionado un profundo conocimiento de las complejidades y desafíos de este sector. Además de mi labor profesional, tengo una pasión por compartir conocimientos y promover el desarrollo tecnológico en la industria.
+
+Me dedico a crear contenido educativo sobre programación y tecnología en diversas plataformas de redes sociales. Mi objetivo es facilitar el acceso al conocimiento y ayudar a otros profesionales mineros a mejorar sus habilidades en estos campos en constante evolución.
+
 ## En mi perfil de GitHub tienes más información
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nrgarridoa)[![NRGARRIDOA](https://img.shields.io/badge/NRGARRIDOA-blue?style=for-the-badge)](https://github.com/nrgarrido)
 
