@@ -47,7 +47,7 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 
 1. [**Primeros Pasos**](primeros_pasos.md)
 2. [**Hola Mundo en Python**](https://drive.google.com/file/d/1zfZFBlomgxy9A3UmAWai60g0A10lYCeK/view?usp=drive_link)
-   - Comentarios en líneas de código
+   - [Comentarios en líneas de código](https://drive.google.com/file/d/1pVIAPRkAtJ6Ni24WdItkllKccPIVfosr/view?usp=drive_link)
 
 3. **Variables**
    - Concepto de variables y su uso en Python.
