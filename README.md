@@ -20,9 +20,18 @@ Esta guía está dirigida a personas sin experiencia previa en programación o c
 
 ## Requisitos
 
-Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión superior. Asegúrate de utilizar una versión compatible, ya que Python 1 y 2 ya no es compatible con este material.
+Para seguir esta guía, es necesario tener instalado Python 3.6 o una versión más reciente. Asegúrate de utilizar una versión compatible, dado que las versiones anteriores de Python (1 y 2) ya no son compatibles con este material.
 
-¡Prepárate para embarcarte en un emocionante viaje de aprendizaje de Python!
+### Pasos para verificar la instalación de Python:
+1. Abre una terminal (en Windows, puedes usar el símbolo del sistema o PowerShell).
+
+2. Escribe el siguiente comando y presiona Enter:
+`python --version`
+
+3. Si Python está instalado correctamente, verás la versión instalada en tu sistema. De lo contrario, necesitarás instalar Python antes de continuar.
+
+¿Todo listo para empezar? ¡Entonces comencemos!
+
 
 
 ## Contenido
