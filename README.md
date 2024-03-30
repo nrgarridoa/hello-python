@@ -21,7 +21,7 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 
 ### Introducción
 1. [**Objetivos de la guía**](objetivos.md)
-2. **¿Qué es programación?**
+2. [**¿Qué es programación?**](programacion.md)
 3. **Diagrama de flujo**
    
 ### Introducción a Python
