@@ -6,7 +6,7 @@
 
 - **Lenguaje de propósito general** Python es versátil y se puede aplicar a una amplia variedad de problemas y aplicaciones, incluyendo machine learning, automatización, desarrollo web, entre otros.
 
-- **Multiparadigma:** Python permite adoptar diferentes estilos de programación, aunque su paradigma principal es la programación orientada a objetos, lo que proporciona flexibilidad y modularidad en el código.
+- **Multiparadigma:** Python permite adoptar diferentes estilos de programación, como: programacion estructurada, programacion funcional y programacion orientada a objetos, aunque su paradigma principal es la POO, lo que proporciona flexibilidad y modularidad en el código.
 
 - **Código abierto:** Python es de código abierto, lo que significa que cualquiera puede usar, distribuir y modificar el lenguaje según sus necesidades. Además, está disponible de forma gratuita para su descarga en Internet.
 
