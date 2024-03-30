@@ -1,6 +1,6 @@
 > "Todo el mundo debería aprender a programar porque te enseña a pensar de manera estructurada y resolutiva." *- Steve Jobs*
 
-## Características de Python:
+## Características de Python
 
 - **Lenguaje de alto nivel:** Python se destaca por su alto nivel de abstracción, lo que significa que su sintaxis es fácil de leer y entender, similar a una oración en inglés. Esto hace que sea fácil de aprender, desarrollar y utilizar.
 
