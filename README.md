@@ -5,7 +5,7 @@
 
 
 
-#### Si consideras útil la guía, apóyalo haciendo [![Star](https://img.shields.io/github/stars/nrgarridoa/hello-python?style=social)](https://github.com/nrgarridoa/hello-python) en el repositorio. ¡Gracias! ####
+#### Si consideras útil la guía, apóyala haciendo [![Star](https://img.shields.io/github/stars/nrgarridoa/hello-python?style=social)](https://github.com/nrgarridoa/hello-python) en el repositorio. ¡Gracias! ####
 
 # Guía de Python para principiantes
 
