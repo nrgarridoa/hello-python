@@ -63,10 +63,10 @@ GITHUB es una plataforma de almacenamiento de código creada en 2007. Podemos cr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ## Formatos usados de trabajo
-- Tablas de Excel ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-Valores separados por comas
-Datos especiales georreferenciados
-Imágenes satelitales, DEMs ![Imágenes Satelitales, DEMs](https://img.shields.io/badge/Imágenes%20Satelitales%2C%20DEMs-000000?style=for-the-badge&logo=satellite&logoColor=white)
-- Bases de datos ![Bases de datos](https://img.shields.io/badge/Bases%20de%20datos-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAJhJREFUWIXtltEOgjAQBB8YMbMOWAiqIGRVAIcSCBKjYLJg3f8JptGbpXr21oBXfuwT2F5FmjjcWvvL4AuPZSAJQXE0HabgFRoU0xppIeFb5zUxVUtNQ3GbPCLFro1l6AOGycihprgkOKoVH1s/FGdR2wtiuhOIvB8BYQsgx6GRLzHnwPIx/0pymaiVHJRKKizI4cPIcPjEs3wcbLkhkEioei4bkgFccxIe/Qb8zAGxK5NIPNzYAAAAAElFTkSuQmCC)
-- Algoritmos y documentos de Python ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAOJJREFUWIXtlDEOwzAQBXFdCEsBQtkLECKhEyBbUgLwKMygjsOBjhgXLuO3YlJh0XHfJzIDuR4ZCzIgUv7AnkEhHyUkW7SEaWpzJ3B0fW9lgGSVb1y3nJgV9LqtSAKcFcHd4EXRphUzOAF9F3LiqUezGAM87RZqPzuxSR5BILDDZUWz1gBTM/rqzN5GbX4iDMCUeS0bF8FVVNOrFaf7Q3nqjPd3Loj6lLY9rF2idrE2mOug5N1R1DTePZYimrP1LmqVbVw9sGfxNpLX6BC0Aj6UCnZkmeVUAAAAASUVORK5CYII=)
+- Tablas de Excel (.xlsx .xls)
+- Valores separados por comas (.csv)
+- Datos especiales georreferenciados (.shp .shx .dbx)
+- Imágenes satelitales, DEMs (.txt .tif .tfw)
+- Bases de datos (.sql .db .gdb)
+- Algoritmos y documentos de Python (.py .ipynb) 
 
