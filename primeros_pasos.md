@@ -1,4 +1,4 @@
-> **Cita:** "Todo el mundo debería aprender a programar porque te enseña a pensar de manera estructurada y resolutiva." *- Steve Jobs*
+> "Todo el mundo debería aprender a programar porque te enseña a pensar de manera estructurada y resolutiva." *- Steve Jobs*
 
 ## Características de Python:
 
