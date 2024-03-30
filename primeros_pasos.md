@@ -2,11 +2,11 @@
 
 ## Características de Python:
 
-#### Lenguaje de alto nivel
+- **Lenguaje de alto nivel**
 
 Python se destaca por su alto nivel de abstracción, lo que significa que su sintaxis es fácil de leer y entender, similar a una oración en inglés. Esto hace que sea fácil de aprender, desarrollar y utilizar.
 
-#### Lenguaje de propósito general
+- **Lenguaje de propósito general**
 
 Python es versátil y se puede aplicar a una amplia variedad de problemas y aplicaciones, incluyendo machine learning, automatización, desarrollo web, entre otros.
 
