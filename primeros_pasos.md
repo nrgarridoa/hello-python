@@ -6,13 +6,16 @@
 
 Python se destaca por su alto nivel de abstracción, lo que significa que su sintaxis es fácil de leer y entender, similar a una oración en inglés. Esto hace que sea fácil de aprender, desarrollar y utilizar.
 
-**Lenguaje de propósito general**
+#### Lenguaje de propósito general
+
 Python es versátil y se puede aplicar a una amplia variedad de problemas y aplicaciones, incluyendo machine learning, automatización, desarrollo web, entre otros.
 
-**Multiparadigma**
+#### Multiparadigma
+
 Python permite adoptar diferentes estilos de programación, aunque su paradigma principal es la programación orientada a objetos, lo que proporciona flexibilidad y modularidad en el código.
 
-**Código abierto**
+#### Código abierto
+
 Python es de código abierto, lo que significa que cualquiera puede usar, distribuir y modificar el lenguaje según sus necesidades. Además, está disponible de forma gratuita para su descarga en Internet.
 
 **Extensible y modular**
