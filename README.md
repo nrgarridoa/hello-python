@@ -62,22 +62,22 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 
 ## Hola, mi nombre es Nilson Garrido.
 Mining Engineer & Data Engineer
+
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nrgarridoa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nrgarridoa/)
 
 
 Soy ingeniero de minas y Data Engineer especializado en programación, bases de datos y reportabilidad para la industria minera, tengo experiencia en gran minería, comparto contenido formativo sobre programación y tecnología en diferentes redes sociales.
 ## En mi perfil de GitHub tienes más información
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="background-color: black; color: white; padding: 10px; border-radius: 5px; width: 50%;">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Icon" width="100" height="28">
-      <span style="vertical-align: middle; margin-left: 10px;">GITHUB</span>
-    </td>
-    <td style="background-color: #1e90ff; color: white; padding: 10px; border-radius: 5px; width: 50%;">
-      <div style="background-color: #1e90ff; color: white; padding: 5px 10px; border-radius: 5px;">NRGARRIDOA</div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+    <div style="background-color: black; color: white; padding: 10px; border-radius: 5px; width: 50%;">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Icon" width="100" height="28">
+        <span style="vertical-align: middle; margin-left: 10px;">GITHUB</span>
+    </div>
+    <div style="background-color: #1e90ff; color: white; padding: 10px; border-radius: 5px; width: 50%;">
+        <div style="background-color: #1e90ff; color: white; padding: 5px 10px; border-radius: 5px;">NRGARRIDOA</div>
+    </div>
+</div>
+
 
 
 
