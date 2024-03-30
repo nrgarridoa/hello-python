@@ -8,7 +8,7 @@ La única gran diferencia entre la programación y lo que ya conoces es que, en 
 
 A diferencia de lo que muchas personas piensan, la programación suele no ser complicada. Los programas grandes siempre están hechos de piezas pequeñas y simples, y esas piezas se escriben una a una. Los lenguajes de programación están diseñados para ser utilizados por humanos, así que si hay una manera fácil y una manera difícil de hacer algo, deberías usar la manera más fácil.
 
-# ¿Qué necesito?
+# ¿Qué necesito saber?
 
 En primer lugar, no necesitas ser bueno en matemáticas. Algunos programadores son buenos en matemáticas, otros no lo son. La programación y las matemáticas son dos cosas diferentes y ser bueno o malo en una no significa que automáticamente seas bueno o malo en la otra.
 
@@ -50,7 +50,7 @@ Eso puede parecer muchos caracteres, pero probablemente ya conozcas muchos de el
 
 # ¿Cómo leer esta guía?
 
-Has hecho mi mejor esfuerzo para que esta guía sea lo más fácil de seguir posible. Otras personas también han comentado al respecto y me han ayudado a mejorarlo mucho. Pero, ¿qué debes hacer si encuentras un problema con la guía?
+He puesto mi mejor esfuerzo para que esta guía sea lo más fácil de seguir posible. Otras personas también han comentado al respecto y me han ayudado a mejorarlo mucho. Pero, ¿qué debes hacer si encuentras un problema con la guía?
 
 1. Prueba el código de ejemplo por ti mismo.
 2. Vuelve a leer el código y la explicación.
@@ -72,16 +72,16 @@ Este capítulo probablemente sea el más aburrido de toda la guía. Los demás c
 
 # Resumen
 
-• Ahora deberías tener una idea de qué es la programación y qué son los lenguajes de programación.
-• No necesitas ser bueno en matemáticas ni tener una computadora nueva.
-• Los programas complicados están formados por piezas simples.
-• No necesitas recordar cómo escribir diferentes caracteres. Solo encuentra el carácter en tu teclado y presiona la tecla correspondiente, manteniendo presionado Shift o AltGr según sea necesario.
-• Asegúrate de entender todo lo que lees.
-• Experimenta libremente y no temas cometer errores.
-• Los mensajes de error son nuestros amigos.
-• Avísame si tienes problemas con esta guía.
+- Ahora deberías tener una idea de qué es la programación y qué son los lenguajes de programación.
+- No necesitas ser bueno en matemáticas ni tener una computadora nueva.
+- Los programas complicados están formados por piezas simples.
+- No necesitas recordar cómo escribir diferentes caracteres. Solo encuentra el carácter en tu teclado y presiona la tecla correspondiente, manteniendo presionado Shift o AltGr según sea necesario.
+- Asegúrate de entender todo lo que lees.
+- Experimenta libremente y no temas cometer errores.
+- Los mensajes de error son nuestros amigos.
+- Avísame si tienes problemas con esta guía.
 
 ¡Ahora estamos listos para instalar Python y comenzar!
 
 ***
-Previo | Siguiente | Contenido
+Anterior | Siguiente | Contenido
