@@ -1,8 +1,8 @@
 > **Cita:** "Todo el mundo debería aprender a programar porque te enseña a pensar de manera estructurada y resolutiva." *- Steve Jobs*
 
-# Características de Python:
+## Características de Python:
 
-**Lenguaje de alto nivel**
+####Lenguaje de alto nivel
 Python se destaca por su alto nivel de abstracción, lo que significa que su sintaxis es fácil de leer y entender, similar a una oración en inglés. Esto hace que sea fácil de aprender, desarrollar y utilizar.
 
 **Lenguaje de propósito general**
@@ -38,7 +38,7 @@ Gracias a su sintaxis simple y legible, Python tiene una curva de aprendizaje ba
 **Limpio y legible**
 La sintaxis clara y la estructura limpia de Python hacen que el código sea fácil de leer y entender, lo que facilita la colaboración y el mantenimiento del software a lo largo del tiempo.
 
-# Ventajas de utilizar Python como lenguaje
+## Ventajas de utilizar Python como lenguaje
 - El desarrollo de código es rápido y sencillo.
 - Nos permite hacer ciencia de una manera más eficiente.
 - Puedes desarrollar tus propias herramientas.
@@ -46,7 +46,7 @@ La sintaxis clara y la estructura limpia de Python hacen que el código sea fác
 - Desarrollo del pensamiento algorítmico:
   - Capacidad para abstraer, modelar y resolver un problema a través de una secuencia lógica de pasos (algoritmo).
 
-# Principales aplicaciones
+## Principales aplicaciones
 1. Automatización
 2. Ciencia de datos
 3. Bases de datos
@@ -58,7 +58,7 @@ La sintaxis clara y la estructura limpia de Python hacen que el código sea fác
 9. Internet de las cosas (IoT)
 10. Interfaces gráficas de usuarios
 
-# Palabras reservadas en Python
+## Palabras reservadas en Python
 False await else import pass
 None break except in raise
 True class finally is return
