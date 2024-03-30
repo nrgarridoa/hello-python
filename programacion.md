@@ -1,6 +1,6 @@
 # ¿Que es la programación?
 
-Si ya conoces los conceptos tratados en esta sección, siéntete libre de [omitirla](##Empezando).
+Si ya conoces los conceptos tratados en esta sección, siéntete libre de [omitirla](#Empezando).
 
 Como usuario de computadoras, sabes que estas no tienen sentimientos. No trabajan más rápido o más lento dependiendo de si estamos enojados o contentos. Las computadoras pueden realizar millones de cálculos por segundo, pero necesitan que les digamos exactamente qué hacer. Si hacen algo distinto a lo que queremos que hagan, el problema suele ser que no entienden nuestras instrucciones de la misma manera que las entendemos nosotros.
 
