@@ -25,8 +25,7 @@ Para seguir esta guía, es necesario tener instalado Python 3.6 o una versión m
 ### Pasos para verificar la instalación de Python:
 1. Abre una terminal (en Windows, puedes usar el símbolo del sistema o PowerShell).
 
-2. Escribe el siguiente comando y presiona Enter:
-`python --version`
+2. Escribe el siguiente comando `python --version` y presiona Enter.
 
 3. Si Python está instalado correctamente, verás la versión instalada en tu sistema. De lo contrario, necesitarás instalar Python antes de continuar.
 
