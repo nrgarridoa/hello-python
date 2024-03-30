@@ -45,8 +45,8 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 
 ### Programación estructura en Python
 
-1. **Primeros Pasos**
-2. **Hola Mundo en Python**
+1. [**Primeros Pasos**](primeros_pasos.md)
+2. [**Hola Mundo en Python**](http://localhost:8888/notebooks/hello-python/%2301%20Hola%20Mundo.ipynb)
    - `print()`
    - Imprimir en la consola
    - Imprimir texto y variables.
