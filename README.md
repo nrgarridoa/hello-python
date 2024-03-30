@@ -59,3 +59,19 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 
 ### Conclusiones
 1. **Próximos Pasos**
+
+## Hola, mi nombre es Nilson Garrido.
+Mining Engineer & Data Engineer
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([enlace a tu canal de YouTube](https://www.youtube.com/@nrgarridoa)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/nrgarridoa/))
+Soy ingeniero de minas y Data Engineer especializado en programación, bases de datos y reportabilidad para la industria minera, tengo experiencia en gran minería, comparto contenido formativo sobre programación y tecnología en diferentes redes sociales.
+## En mi perfil de GitHub tienes más información
+<div style="display: flex; align-items: center; background-color: black; color: white; padding: 10px; border-radius: 5px;">
+    <a href="https://github.com/NRGARRIDOA" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Icon" width="100" height="28">
+    </a>
+    <a href="https://github.com/nrgarridoa" style="text-decoration: none;">
+        <div style="background-color: #1e90ff; color: white; padding: 5px 10px; border-radius: 5px; margin-left: 10px;">NRGARRIDOA</div>
+    </a>
+</div>
+
+
