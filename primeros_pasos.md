@@ -49,3 +49,23 @@
 
 ## Palabras reservadas en Python
 ```False``` ```await``` ```else``` ```import``` ```pass``` ```None``` ```break``` ```except``` ```in``` ```raise``` ```True``` ```class``` ```finally``` ```is``` ```return``` ```and``` ```continue``` ```for``` ```lambda``` ```try``` ```as def``` ```from``` ```nonlocal``` ```while``` ```assert``` ```del``` ```global``` ```not``` ```with``` ```async``` ```elif``` ```if``` ```or``` ```yield```
+
+## Donde aprender Python
+Para desarrollar código en un lenguaje de programación, debemos usar un entorno integrado de desarrollo o IDE. Los IDEs nos permiten editar código y ejecutarlo. Para el caso de Python, podemos utilizar diversos editores:
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+## Donde encontrar poryectos de Python
+GITHUB es una plataforma de almacenamiento de código creada en 2007. Podemos crear un proyecto y guardarlo dentro de un repositorio. Diferentes personas pueden colaborar en el desarrollo de nuestro repositorio.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+## Formatos usados de trabajo
+- Tablas de Excel ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+Valores separados por comas
+Datos especiales georreferenciados
+Imágenes satelitales, DEMs ![Imágenes Satelitales, DEMs](https://img.shields.io/badge/Imágenes%20Satelitales%2C%20DEMs-000000?style=for-the-badge&logo=satellite&logoColor=white)
+Bases de datos ![Bases de datos](https://img.shields.io/badge/Bases%20de%20datos-003B57?style=for-the-badge&logo=database&logoColor=white)
+Algoritmos y documentos de Python ![Algoritmos y documentos de Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
