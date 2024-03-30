@@ -63,20 +63,13 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 ## Hola, mi nombre es Nilson Garrido.
 Mining Engineer & Data Engineer
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nrgarridoa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nrgarridoa/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nrgarridoa/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nrgarridoa)
 
 Soy ingeniero de minas y Data Engineer especializado en programación, bases de datos y reportabilidad para la industria minera, tengo experiencia en gran minería, comparto contenido formativo sobre programación y tecnología en diferentes redes sociales.
 ## En mi perfil de GitHub tienes más información
-<div style="display: flex;">
-    <div style="background-color: black; color: white; padding: 10px; border-radius: 5px; width: 50%;">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Icon" width="28" height="28" style="margin-right: 10px;">
-        NRGARRIDOA
-    </div>
-    <div style="background-color: #1e90ff; color: white; padding: 10px; border-radius: 5px; width: 50%;">
-        NRGARRIDOA
-    </div>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nrgarridoa)
+
 
 
 
