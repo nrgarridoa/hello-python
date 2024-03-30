@@ -57,7 +57,7 @@ Para desarrollar código en un lenguaje de programación, debemos usar un entorn
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## Donde encontrar poryectos de Python
+## Donde encontrar proyectos de Python
 GITHUB es una plataforma de almacenamiento de código creada en 2007. Podemos crear un proyecto y guardarlo dentro de un repositorio. Diferentes personas pueden colaborar en el desarrollo de nuestro repositorio.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
