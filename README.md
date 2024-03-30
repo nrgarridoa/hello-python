@@ -34,7 +34,7 @@ Para seguir esta guía, es necesario tener instalado Python 3.6 o una versión m
 
 
 ## Contenido
-*El contenido esta organizado en pequeños fragmentos para facilitar tu aprendizaje.*
+El contenido esta organizado en pequeños fragmentos para facilitar tu aprendizaje.
 
 ### Introducción
 1. [**Objetivos de la guía**](objetivos.md)
