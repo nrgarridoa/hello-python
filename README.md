@@ -37,11 +37,60 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 1. **¿Qué es Python?**
 2. **Instalación de Python**
 
-### Primeros Pasos
+### Programación estructura en Python
+#### Primeros Pasos
 1. **Hola Mundo en Python**
-2. **Variables y Tipos de Datos**
-3. **Operadores Básicos**
-4. **Estructuras de Control**
+2. **Variables**
+3. **Tipos de datos**
+4. **Operadores**
+  - Operadores básicos
+  - Operadores avanzados
+5. **Estructuras de Control**
+   - **Condicionales**
+- **Bucles**
+11. **Taller práctico**
+
+1. **Primeros Pasos**
+2. **Hola Mundo en Python**
+   - `print()`
+   - Imprimir en la consola
+   - Imprimir texto y variables.
+
+3. **Variables**
+   - Concepto de variables y su uso en Python.
+   - Reglas de nombrado de variables en Python (identificadores válidos).
+   - Tipos de datos que pueden almacenarse en variables (números, cadenas, booleanos, etc.).
+   - Ejemplos de declaración y asignación de variables.
+
+3. **Tipos de datos**
+   - Descripción detallada de los tipos de datos básicos en Python: enteros, flotantes, cadenas, booleanos.
+   - Ejemplos de cómo trabajar con cada tipo de dato (creación, operaciones, métodos).
+
+4. **Operadores**
+   - **Operadores básicos**
+     - Operadores aritméticos: suma, resta, multiplicación, división, módulo, exponente.
+     - Operadores de comparación: igualdad, desigualdad, mayor que, menor que, mayor o igual que, menor o igual que.
+     - Operadores lógicos: and, or, not.
+   - **Operadores avanzados**
+     - Operadores de asignación: +=, -=, *=, /=, //=, %=, **=.
+     - Operador de pertenencia: in.
+     - Operador de identidad: is.
+
+5. **Estructuras de Control**
+   - **Condicionales**
+     - Uso de la estructura `if`, `elif` y `else` para ejecutar código de manera condicional.
+     - Operadores de comparación y lógicos en las condiciones.
+     - Ejemplos de casos comunes de uso de condicionales.
+   - **Bucles**
+     - Bucle `while`: descripción de su estructura y funcionamiento.
+     - Bucle `for`: descripción de su estructura y funcionamiento.
+     - Uso de los bucles para repetir acciones o iterar sobre secuencias.
+     - Ejemplos de uso de bucles en diferentes situaciones.
+
+6. **Taller práctico**
+   - Ejercicios prácticos para aplicar los conceptos aprendidos en los temas anteriores.
+   - Problemas para resolver utilizando variables, operadores y estructuras de control.
+   - Soluciones y explicaciones detalladas para cada ejercicio.
 
 ### Funciones y Módulos
 1. **Definición de Funciones**
