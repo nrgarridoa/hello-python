@@ -38,17 +38,6 @@ Para seguir esta guía, necesitarás tener instalado Python 3.6 o una versión s
 2. **Instalación de Python**
 
 ### Programación estructura en Python
-#### Primeros Pasos
-1. **Hola Mundo en Python**
-2. **Variables**
-3. **Tipos de datos**
-4. **Operadores**
-  - Operadores básicos
-  - Operadores avanzados
-5. **Estructuras de Control**
-   - **Condicionales**
-- **Bucles**
-11. **Taller práctico**
 
 1. **Primeros Pasos**
 2. **Hola Mundo en Python**
