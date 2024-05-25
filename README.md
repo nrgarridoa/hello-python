@@ -99,14 +99,23 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 1. **Diseño de la Calculadora**
 2. **Implementación en Python**
 
-### Recursos Adicionales
+### Recursos Adicionales (Gratuitos)
+#### Páginas para aprender Python
+
+
+#### Aprende jugando
+
+
+#### Libros
+
+
 1. **Enlaces Útiles**
 
 ### Conclusiones
 1. **Próximos Pasos**
 
 ## Hola, mi nombre es Nilson Garrido.
-Mining Engineer & Data Engineer
+Mining Engineer | Python Developer | Data Scientist | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nrgarridoa/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nrgarridoa)
