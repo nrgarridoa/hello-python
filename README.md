@@ -104,7 +104,9 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 
 
 #### Aprende jugando
-
+- **[codingame.com](https://www.codingame.com/start/)**: Play coding games. Have fun. Build skills. Level up your coding with games, puzzles, and challenges..
+- **[codecombat.com](https://codecombat.com/)**: Learn playing and writing code from the very start of your adventure, promoting active learning and a growth mindset..
+- **[checkio.org](https://checkio.org/)**: Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript.
 
 #### Libros
 
