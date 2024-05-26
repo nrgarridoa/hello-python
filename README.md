@@ -115,6 +115,12 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 - **[Coursera - Python Courses](https://www.coursera.org/courses?query=python)**: Amplía tus conocimientos en Python con cursos en línea impartidos por expertos.
 
 ---
+- [**Solo Learn - Introduction to Python**](https://www.sololearn.com/en/learn/courses/python-introduction)
+- [**Solo Learn - Python Intermediate**](https://www.sololearn.com/en/learn/courses/python-intermediate?location=2)
+- [**Solo Learn - Python developer**](https://www.sololearn.com/en/learn/courses/python-developer)
+
+
+---
 
 
 #### 2. Aprende jugando
