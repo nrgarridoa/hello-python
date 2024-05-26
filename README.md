@@ -118,10 +118,19 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 
 
 #### 2. Aprende jugando
+¿Por qué aprender jugando?
+Aprender jugando no solo hace que el proceso de adquisición de conocimientos sea más divertido y motivador, sino que también mejora la retención y la aplicación práctica de lo aprendido. Al enfrentar desafíos y resolver problemas en un entorno de juego, los estudiantes pueden aplicar conceptos teóricos de manera inmediata y efectiva.
 
 | [![Miniatura-Codingame.png](https://i.postimg.cc/26q12Jx0/Miniatura-Codingame.png)](https://www.codingame.com/start/) <br> Juega, diviértete y desarrolla tus habilidades de programación con una amplia gama de juegos, rompecabezas y desafíos.| [![Miniatura-Codecombat.png](https://i.postimg.cc/fbPLtChm/Miniatura-Codecombat.png)](https://codecombat.com/) <br> Comienza tu aventura aprendiendo y practicando programación desde cero, fomentando un aprendizaje activo y una mentalidad de crecimiento.| [![Miniatura-Checkio.png](https://i.postimg.cc/JnBhbX1g/Miniatura-Checkio.png)](https://checkio.org/) <br> Mejora tus habilidades de programación resolviendo desafíos y tareas divertidas, tanto para principiantes como para programadores avanzados.|
 |:---:|:---:|:---:|
 | [➡️codingame.com⬅️](https://www.codingame.com/start/) | [➡️codecombat.com⬅️](https://codecombat.com/) | [➡️checkio.org⬅️](https://checkio.org/) |
+
+
+
+| [![Miniatura-Codingame.png](https://i.postimg.cc/26q12Jx0/Miniatura-Codingame.png)](https://www.codingame.com/start/) <br> Juega, diviértete y desarrolla tus habilidades de programación con una amplia gama de juegos, rompecabezas y desafíos.| [![Miniatura-Codecombat.png](https://i.postimg.cc/fbPLtChm/Miniatura-Codecombat.png)](https://codecombat.com/) <br> Comienza tu aventura aprendiendo y practicando programación desde cero, fomentando un aprendizaje activo y una mentalidad de crecimiento.| [![Miniatura-Checkio.png](https://i.postimg.cc/JnBhbX1g/Miniatura-Checkio.png)](https://checkio.org/) <br> Mejora tus habilidades de programación resolviendo desafíos y tareas divertidas, para principiantes y avanzados.|
+|:---:|:---:|:---:|
+| <a href="https://www.codingame.com/start/" style="display:block;text-align:center;width:200px;">➡️codingame.com⬅️</a> | <a href="https://codecombat.com/" style="display:block;text-align:center;width:200px;">➡️codecombat.com⬅️</a> | <a href="https://checkio.org/" style="display:block;text-align:center;width:200px;">➡️checkio.org⬅️</a> |
+
 
 
 #### 3. Libros
