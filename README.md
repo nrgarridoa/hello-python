@@ -99,43 +99,37 @@ El contenido esta organizado en pequeños fragmentos para facilitar tu aprendiza
 1. **Diseño de la Calculadora**
 2. **Implementación en Python**
 
-### Recursos Adicionales (Gratuitos)
-#### Páginas para aprender Python
+## Recursos Adicionales (Gratuitos)
+#### 1. Sitios Online para aprender Python
+
+---
+
+- **[Codecademy - Learn Python](https://www.codecademy.com/learn/learn-python)**: Aprende Python interactivo con lecciones prácticas y una plataforma intuitiva.
+  
+- **[Real Python](https://realpython.com/)**: Descubre tutoriales detallados y recursos de calidad para convertirte en un experto en Python.
+
+- **[W3Schools - Python Tutorial](https://www.w3schools.com/python/)**: Accede a una referencia completa de Python y tutoriales prácticos.
+
+- **[Python.org](https://www.python.org/)**: Explora la fuente oficial de documentación y recursos para Python.
+
+- **[Coursera - Python Courses](https://www.coursera.org/courses?query=python)**: Amplía tus conocimientos en Python con cursos en línea impartidos por expertos.
+
+---
 
 
-#### Aprende jugando
-- **[codingame.com](https://www.codingame.com/start/)**: Play coding games. Have fun. Build skills. Level up your coding with games, puzzles, and challenges..
-- **[codecombat.com](https://codecombat.com/)**: Learn playing and writing code from the very start of your adventure, promoting active learning and a growth mindset..
-- **[checkio.org](https://checkio.org/)**: Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript.
+#### 2. Aprende jugando
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <a href="[https://example1.com](https://www.codingame.com/start/)" style="text-decoration: none;">
-    <strong>codingame.com</strong>
-  </a>
-  <p>Play coding games. Have fun. Build skills. Level up your coding with games, puzzles, and challenges..</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <a href="h[ttps://example2.com](https://codecombat.com/)" style="text-decoration: none;">
-    <strong>codecombat.com</strong>
-  </a>
-  <p>ULearn playing and writing code from the very start of your adventure, promoting active learning and a growth mindset..</p>
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <a href="[https://example3.com](https://checkio.org/)" style="text-decoration: none;">
-    <strong>checkio.org</strong>
-  </a>
-  <p>Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript.</p>
-</div>
-
-#### Libros
+| [![Miniatura-Codingame.png](https://i.postimg.cc/26q12Jx0/Miniatura-Codingame.png)](https://www.codingame.com/start/) <br> Juega, diviértete y desarrolla tus habilidades de programación con una amplia gama de juegos, rompecabezas y desafíos.| [![Miniatura-Codecombat.png](https://i.postimg.cc/fbPLtChm/Miniatura-Codecombat.png)](https://codecombat.com/) <br> Comienza tu aventura aprendiendo y practicando programación desde cero, fomentando un aprendizaje activo y una mentalidad de crecimiento.| [![Miniatura-Checkio.png](https://i.postimg.cc/JnBhbX1g/Miniatura-Checkio.png)](https://checkio.org/) <br> Mejora tus habilidades de programación resolviendo desafíos y tareas divertidas, tanto para principiantes como para programadores avanzados.|
+|:---:|:---:|:---:|
+| [➡️codingame.com⬅️](https://www.codingame.com/start/) | [➡️codecombat.com⬅️](https://codecombat.com/) | [➡️checkio.org⬅️](https://checkio.org/) |
 
 
-1. **Enlaces Útiles**
+#### 3. Libros
+---
 
-### Conclusiones
-1. **Próximos Pasos**
+---
+
+
 
 ## Hola, mi nombre es Nilson Garrido.
 Mining Engineer | Python Developer | Data Scientist | Data Analyst
