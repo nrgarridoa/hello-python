@@ -144,6 +144,8 @@ Aprender jugando no solo hace que el proceso de adquisición de conocimientos se
 
 ---
 
+#### 4. Compiladores de código
+- [**Solo Learn - Compilor**](https://www.sololearn.com/en/compiler-playground/python)
 
 
 ## Hola, mi nombre es Nilson Garrido.
